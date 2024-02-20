@@ -7,3 +7,7 @@
 - End:
 ### Purpose
 - To learn new information about machin learning and To lay the groundwork for a personal project.
+### Used
+- Tool: Rstudio, Jupyter notebook
+- Language: Python, R
+- Note: Obsidian(notefile + download to pdf)
